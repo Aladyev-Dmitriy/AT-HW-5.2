@@ -1,5 +1,7 @@
 # Домашнее задание к занятию «2.3. Patterns»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/3addh6g1b3hn5bl5/branch/main?svg=true)](https://ci.appveyor.com/project/Aladyev-Dmitriy/at-hw-5-2/branch/main)
+
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
 
 Все задачи этого занятия нужно делать **в разных репозиториях**.
